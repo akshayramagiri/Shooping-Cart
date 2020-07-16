@@ -27,7 +27,7 @@
 * Run "mongod" on your Terminal or Command prompt.
 * Then get into the "seed" folder and run "product_seeder" file.
 * Now run "npm start" on your terminal or Command prompt.
-* Finally open your browser and run the link "localhost3000".
+* Finally open your browser and run the link "localhost:3000".
 
 
   
