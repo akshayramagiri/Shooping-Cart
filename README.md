@@ -23,11 +23,11 @@
 
 # HOW TO RUN
 
-* 0-First install all the software after moving insdie the project folder like "node js", "npm install" , "npm install mongo db" "npm install passport" "npm install stripe".
-* 1-Run "mongod" on your Terminal or Command prompt.
-* 2-Then get into the "seed" folder and run "product_seeder" file.
-* 3-Now run "npm start" on your terminal or Command prompt.
-* 4-Finally open your browser and run the link "localhost3000".
+* First install all the software after moving insdie the project folder like "node js", "npm install" , "npm install mongo db" "npm install passport" "npm install stripe".
+* Run "mongod" on your Terminal or Command prompt.
+* Then get into the "seed" folder and run "product_seeder" file.
+* Now run "npm start" on your terminal or Command prompt.
+* Finally open your browser and run the link "localhost3000".
 
 
   
